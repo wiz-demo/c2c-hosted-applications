@@ -1,0 +1,14 @@
+target/
+bin/
+*.jar
+*.war
+*.ear
+*.class
+*.log
+.DS_Store
+.idea/
+*.iml
+.vscode/
+c2c-hosted-applications
+c2c-hosted-go-app
+*.metadata.json
